@@ -2,7 +2,7 @@
 layout: post
 title: test-post to github.io
 date: 2021-06-01
-category: 독서
+category: sample
 ---
 
 # Post sample
